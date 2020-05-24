@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "J9TTecvkcZh+zmHr7maU2wwERyStZ4db+C/i2ZePWtgLZMSFpD2lhDEu68mRZTbIyRycpzaJiRYRhCaPXdT4QQ==",
+  "success": true,
+  "projectFilePath": "/home/jak/cst326-clc/cst326-clc.csproj",
+  "expectedPackageFiles": [
+    "/home/jak/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
