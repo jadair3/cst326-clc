@@ -1,0 +1,3 @@
+Mon,Cardio,TotalBody,0,45
+Tues,Weights,Arms,30,15
+Wed,Walk,TotalBody,0,65
