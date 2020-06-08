@@ -1,7 +1,0 @@
-C:\Users\jesmer\source\repos\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe.config
-C:\Users\jesmer\source\repos\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe
-C:\Users\jesmer\source\repos\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.pdb
-C:\Users\jesmer\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csprojAssemblyReference.cache
-C:\Users\jesmer\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csproj.CoreCompileInputs.cache
-C:\Users\jesmer\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe
-C:\Users\jesmer\source\repos\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.pdb
