@@ -6,4 +6,10 @@
     <RootNamespace>cst326_clc</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="FitnessTracker\**" />
+    <EmbeddedResource Remove="FitnessTracker\**" />
+    <None Remove="FitnessTracker\**" />
+  </ItemGroup>
+
 </Project>

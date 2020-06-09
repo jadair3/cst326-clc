@@ -1,0 +1,12 @@
+C:\dev\vs\Source\Repos\cst326-clc\bin\Debug\netcoreapp3.1\cst326-clc.exe
+C:\dev\vs\Source\Repos\cst326-clc\bin\Debug\netcoreapp3.1\cst326-clc.deps.json
+C:\dev\vs\Source\Repos\cst326-clc\bin\Debug\netcoreapp3.1\cst326-clc.runtimeconfig.json
+C:\dev\vs\Source\Repos\cst326-clc\bin\Debug\netcoreapp3.1\cst326-clc.runtimeconfig.dev.json
+C:\dev\vs\Source\Repos\cst326-clc\bin\Debug\netcoreapp3.1\cst326-clc.dll
+C:\dev\vs\Source\Repos\cst326-clc\bin\Debug\netcoreapp3.1\cst326-clc.pdb
+C:\dev\vs\Source\Repos\cst326-clc\obj\Debug\netcoreapp3.1\cst326-clc.AssemblyInfoInputs.cache
+C:\dev\vs\Source\Repos\cst326-clc\obj\Debug\netcoreapp3.1\cst326-clc.AssemblyInfo.cs
+C:\dev\vs\Source\Repos\cst326-clc\obj\Debug\netcoreapp3.1\cst326-clc.csproj.CoreCompileInputs.cache
+C:\dev\vs\Source\Repos\cst326-clc\obj\Debug\netcoreapp3.1\cst326-clc.dll
+C:\dev\vs\Source\Repos\cst326-clc\obj\Debug\netcoreapp3.1\cst326-clc.pdb
+C:\dev\vs\Source\Repos\cst326-clc\obj\Debug\netcoreapp3.1\cst326-clc.genruntimeconfig.cache

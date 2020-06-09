@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "cst326-clc/1.0.0": {
+        "runtime": {
+          "cst326-clc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cst326-clc/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
